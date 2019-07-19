@@ -553,6 +553,12 @@ PrefabInstance:
       propertyPath: muzzleFlash
       value: 
       objectReference: {fileID: 1112248154}
+    - target: {fileID: 7331958986924163642, guid: c6453f8e1f814744d8b94e5a6d1f9942,
+        type: 3}
+      propertyPath: hitEffect
+      value: 
+      objectReference: {fileID: 4200630537398946917, guid: 17fad8b9db07948f681d659903570fe9,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c6453f8e1f814744d8b94e5a6d1f9942, type: 3}
 --- !u!1001 &597835319
