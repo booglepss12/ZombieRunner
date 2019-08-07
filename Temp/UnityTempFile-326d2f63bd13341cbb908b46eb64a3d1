@@ -303,4 +303,5 @@
 "Assets/Scripts/EnemyAI.cs"
 "Assets/Scripts/EnemyAttack.cs"
 "Assets/Scripts/EnemyHealth.cs"
+"Assets/Scripts/PlayerHealth.cs"
 "Assets/Scripts/Weapon.cs"
